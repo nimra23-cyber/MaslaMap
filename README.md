@@ -225,9 +225,7 @@ Do not include personal information or real CNIC, phone, or address details in a
 
 MaslaMap is described as MIT-licensed in the application footer and on its Open Source page.
 
-**Copyright holder: [TO BE CONFIRMED]**
-
-No `LICENSE` file is currently present in the repository. Before distributing the project, add the full MIT License text as a `LICENSE` file with the confirmed copyright holder and year.
+**Copyright holder: Nimra Tariq**
 
 ## Conclusion
 
